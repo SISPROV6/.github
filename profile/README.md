@@ -22,9 +22,11 @@ Esta organização alocará todos os repositórios de projetos da V6 que estão 
 ![image](../files/GIT-Arvore_de_Branches.png)
 
 
-### Produtos atualmente sendo desenvolvidos *(não necessariamente reflete o nome dos repositórios)*
+### Produtos e projetos atualmente sendo desenvolvidos *(não necessariamente reflete o nome dos repositórios)*
 - Corporativo
 - Infra
+  - NgxSpInfra (versionado)
+  - SpIntegrations (versionado)
 - Contratos
 - PortalRH
 - Folha
@@ -32,7 +34,7 @@ Esta organização alocará todos os repositórios de projetos da V6 que estão 
 - Contábil
 - Fiscal
 - Reinf
-- Estágio
+- Estágio (versionado)
 - ERP
 	- Financeiro
 	- Recebimento
