@@ -19,7 +19,7 @@
 
 > [!WARNING]
 > Que fique documentado que a organização de branches dos repositórios **deve** ser feita desta maneira. Vamos padronizar a utlização das branches desde o início para não haver problemas de versionamento
-![image](files/GIT-Arvore_de_Branches.png)
+![image](../files/GIT-Arvore_de_Branches.png)
 
 
 ### Produtos atualmente sendo desenvolvidos *(não necessariamente reflete o nome dos repositórios)*
