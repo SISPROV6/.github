@@ -1,5 +1,5 @@
 <h1 align="center"> 💻 SISPRO V6 🏢 </h1>
-<h3> Esta organização alocará todos os repositórios de projetos da V6 que estão atualmente sendo desenvolvidos, o objetivo é que com o tempo migremos totalmente para a utilização do Git para os projetos V6, abandonando a versão atual do SVN </h3>
+Esta organização alocará todos os repositórios de projetos da V6 que estão atualmente sendo desenvolvidos, o objetivo é que com o tempo migremos totalmente para a utilização do Git para os projetos V6, abandonando a versão atual do SVN
 
 ### Linguagens e ferramentas utilizadas
 - Angular 17+
