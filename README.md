@@ -1,45 +1,59 @@
-<h1 align="center"> 💻 SISPRO V6 🏢 </h1>
-<h3> Esta organização alocará todos os repositórios de projetos da V6 que estão atualmente sendo desenvolvidos, o objetivo é que com o tempo migremos totalmente para a utilização do Git para os projetos V6, abandonando a versão atual do SVN </h3>
+# 💻 SISPRO V6 🏢
 
-### Linguagens e ferramentas utilizadas
-- Angular 17+
-  - Sass
+Esta organização centraliza todos os repositórios de projetos da V6 que estão sendo desenvolvidos utilizando Git como sistema de controle de versão.
+Link para documentação de componentes e processos internos aqui: [InfraCodeDocs](https://siscandesv6.sispro.com.br/SisproErpCloud/InfraCodeDocs/inicio)
+
+## Linguagens e ferramentas utilizadas
+
+- **Angular 19**
+  - SCSS
   - HTML
+  - Bootstrap
   - Javascript / Typescript
-- .NET (futuramente .NET Core)
+- **.NET Framework 4.8**
   - C#
-- Microsserviços
-- SQL Server / Oracle / SQLite
-- Azure (futuramente)
-- AWS
-
-
-> [!IMPORTANT]
-> Apenas alguns projetos seletos já estão utilizando git, pois algumas decisões importantes ainda estão tramitando nos bastidores. Logo logo teremos todos projetos V6 com seus repositórios por aqui!
+- **Microsserviços**
+- **Bancos de dados**
+  - SQL Server
+  - Oracle
+  - SQLite
+- **Cloud**
+  - Azure (em crescente adoção)
 
 > [!WARNING]
-> Que fique documentado que a organização de branches dos repositórios **deve** ser feita desta maneira. Vamos padronizar a utlização das branches desde o início para não haver problemas de versionamento
-![image](files/novoPlanoDeploy.jpg)
+> A organização de branches dos repositórios **deve** seguir o padrão estabelecido. É fundamental padronizar a utilização das branches desde o início para evitar problemas de versionamento.
 
+![image](../files/GIT-Arvore_de_Branches.png)
 
-### Produtos atualmente sendo desenvolvidos *(não necessariamente reflete o nome dos repositórios)*
-- Corporativo
-- Infra
-- Contratos
-- PortalRH
-- Folha
-- Patrimonio
-- Contábil
-- Fiscal
-- Reinf
-- Estágio
-- ERP
-	- Financeiro
-	- Recebimento
-	- Vendas
-	- Compras
-	- Estoque
+## Produtos e projetos atualmente sendo desenvolvidos
+*Os nomes podem não refletir exatamente os nomes dos repositórios*
 
+- **Corporativo**
+- **Infra**
+  - ConfigERP
+  - PrePortal
+  - ErpCenter
+  - infra-code-docs
+  - ngx-sp-infra
+  - ngx-sp-auth
+- **Contratos**
+- **PortalRH**
+- **Folha**
+- **Patrimonio**
+- **Contábil**
+- **Fiscal**
+- **Reinf**
+- **Estágio** (versionado)
+- **ERP**
+  - Financeiro
+  - Recebimento
+  - Vendas
+  - Compras
+  - Estoque
 
-### Anexos úteis
-[Design System (Figma)](https://www.figma.com/design/WoHZSAQsjqZuc6rC02CAkR/Sispro-DS---Definitivo?node-id=73-16002)
+## Links úteis
+
+- [Design System (Figma)](https://www.figma.com/design/WoHZSAQsjqZuc6rC02CAkR/Sispro-DS---Definitivo?node-id=73-16002)
+- [Documentação Angular](https://angular.dev/)
+- [Azure Documentation](https://docs.microsoft.com/azure/)
+- [.NET Framework Documentation](https://docs.microsoft.com/dotnet/framework/)
