@@ -23,7 +23,7 @@ Link para documentação de componentes e processos internos aqui: [InfraCodeDoc
 > [!WARNING]
 > A organização de branches dos repositórios **deve** seguir o padrão estabelecido. É fundamental padronizar a utilização das branches desde o início para evitar problemas de versionamento.
 
-![image](../files/GIT-Arvore_de_Branches.png)
+![image](../files/novoPlanoDeploy.jpg)
 
 ## Produtos e projetos atualmente sendo desenvolvidos
 *Os nomes podem não refletir exatamente os nomes dos repositórios*
